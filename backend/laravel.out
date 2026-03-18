@@ -1,0 +1,42 @@
+
+   INFO  Server running on [http://127.0.0.1:8000].  
+
+  Press Ctrl+C to stop the server
+
+  2026-03-19 04:05:43 /admin  ~ 504.46ms
+  2026-03-19 04:05:43 /css/filament/forms/forms.css?v=3.3.49.0  ~ 504.92ms
+  2026-03-19 04:05:44 /css/filament/support/support.css?v=3.3.49.0  ~ 0.08ms
+  2026-03-19 04:05:44 /css/filament/filament/app.css?v=3.3.49.0  ~ 0.18ms
+  2026-03-19 04:05:44 /js/filament/notifications/notifications.js?v=3.3.49.0  ~ 0.28ms
+  2026-03-19 04:05:44 /js/filament/support/support.js?v=3.3.49.0  ~ 0.05ms
+  2026-03-19 04:05:44 /js/filament/filament/echo.js?v=3.3.49.0  ~ 0.20ms
+  2026-03-19 04:05:44 /js/filament/filament/app.js?v=3.3.49.0  ~ 0.34ms
+  2026-03-19 04:05:44 /livewire/update  ~ 0.10ms
+  2026-03-19 04:05:44 /livewire/update  ~ 505.60ms
+  2026-03-19 04:05:44 /favicon.ico  ~ 509.68ms
+  2026-03-19 04:05:44 /livewire/update  ~ 528.21ms
+  2026-03-19 04:05:44 /js/filament/widgets/components/stats-overview/stat/chart.js?v=3.3.49.0  ~ 19.76ms
+  2026-03-19 04:05:45 /js/filament/tables/components/table.js?v=3.3.49.0  ~ 0.71ms
+  2026-03-19 04:05:45 /js/filament/widgets/components/chart.js?v=3.3.49.0  ~ 0.22ms
+  2026-03-19 04:05:54 /livewire/update  ~ 501.67ms
+  2026-03-19 04:06:01 /api/courts  ~ 507.14ms
+  2026-03-19 04:06:01 /api/reviews  ~ 524.64ms
+  2026-03-19 04:06:01 /api/settings  ~ 527.43ms
+  2026-03-19 04:06:01 /api/leagues  ~ 528.75ms
+  2026-03-19 04:06:01 /api/matches/upcoming  ~ 529.02ms
+  2026-03-19 04:06:02 /storage/courts/01KM0BSDDNXK3WQEJCZCQK9770.jpg  ~ 0.27ms
+  2026-03-19 04:06:02 /storage/courts/01KM18WEDH0MND648BSWP0749J.jpg  ~ 0.52ms
+  2026-03-19 04:06:02 /storage/courts/01KM1BA5WBBR3K7DNY95CM1NC5.jpg  ~ 0.81ms
+  2026-03-19 04:06:12 /api/courts  ~ 506.13ms
+  2026-03-19 04:06:12 /api/reviews  ~ 507.65ms
+  2026-03-19 04:06:12 /api/settings  ~ 508.36ms
+  2026-03-19 04:06:12 /api/leagues  ~ 508.84ms
+  2026-03-19 04:06:12 /api/matches/upcoming  ~ 509.24ms
+  2026-03-19 04:06:12 /storage/courts/01KM0BSDDNXK3WQEJCZCQK9770.jpg  ~ 0.22ms
+  2026-03-19 04:06:12 /storage/courts/01KM18WEDH0MND648BSWP0749J.jpg  ~ 0.50ms
+  2026-03-19 04:06:12 /storage/courts/01KM1BA5WBBR3K7DNY95CM1NC5.jpg  ~ 0.69ms
+  2026-03-19 04:06:39 /livewire/update  ~ 0.14ms
+  2026-03-19 04:06:44 /livewire/update  ~ 0.27ms
+  2026-03-19 04:06:49 /livewire/update  ~ 0.41ms
+  2026-03-19 04:07:20 /livewire/update  ~ 0.41ms
+  2026-03-19 04:07:50 /livewire/update  ~ 0.42ms
